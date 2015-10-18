@@ -1,6 +1,6 @@
 # FSE-2014-MechatronicUML
 
-This repository is contains information related to the tool MechatronicUML presented at Foundations of Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=2635868.2661665).
+This repository contains information related to the tool MechatronicUML presented at Foundations of Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=2635868.2661665).
 
 This repository is not the original repository for this tool. Here are some links to the original project:
 * [The Original Project Page for MechatronicUML](http://www.mechatronicuml.org/en/index.html)
