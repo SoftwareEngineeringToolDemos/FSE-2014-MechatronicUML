@@ -2,7 +2,7 @@
 
 This repository contains information related to the tool MechatronicUML presented at Foundations of Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?doid=2635868.2661665).
 
-This repository is not the original repository for this tool. Here are some links to the original project:
+This repository _is not_ the original repository for this tool. Here are some links to the original project:
 * [The Original Project Page for MechatronicUML](http://www.mechatronicuml.org/en/index.html)
 * [A more recent version of the project](http://www.mechatronicuml.org/en/download.html)
 * [A Video of the Tool](https://www.youtube.com/watch?v=xQJdd5HGs-M)
